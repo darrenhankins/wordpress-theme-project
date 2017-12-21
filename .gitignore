@@ -16,3 +16,8 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+
+assets/js/jquery-3.2.1.min.js
+assets/css/font-awesome/
+assets/fonts/
+assets/img/
